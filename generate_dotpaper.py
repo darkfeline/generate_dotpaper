@@ -6,6 +6,8 @@
 
 Edit the constants in this script to configure.
 
+Requires Python 3 and Pillow.
+
 """
 
 import sys
